@@ -1,7 +1,0 @@
-/home/torjus/projects/mas245/mas245-vendingmachine/build/Desktop_Qt_6_9_2-Debug/CMakeFiles/VendingMachine.dir
-/home/torjus/projects/mas245/mas245-vendingmachine/build/Desktop_Qt_6_9_2-Debug/CMakeFiles/edit_cache.dir
-/home/torjus/projects/mas245/mas245-vendingmachine/build/Desktop_Qt_6_9_2-Debug/CMakeFiles/rebuild_cache.dir
-/home/torjus/projects/mas245/mas245-vendingmachine/build/Desktop_Qt_6_9_2-Debug/CMakeFiles/list_install_components.dir
-/home/torjus/projects/mas245/mas245-vendingmachine/build/Desktop_Qt_6_9_2-Debug/CMakeFiles/install.dir
-/home/torjus/projects/mas245/mas245-vendingmachine/build/Desktop_Qt_6_9_2-Debug/CMakeFiles/install/local.dir
-/home/torjus/projects/mas245/mas245-vendingmachine/build/Desktop_Qt_6_9_2-Debug/CMakeFiles/install/strip.dir
