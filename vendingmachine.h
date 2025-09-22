@@ -5,8 +5,7 @@
 #define VENDINGMACHINE_H
 
 #include <vector>
-#include <soda.h>
-
+#include "soda.h"
 
 // Declare class VendingMachine
 class VendingMachine
